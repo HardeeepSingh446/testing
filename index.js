@@ -1,3 +1,3 @@
-const data ="tetsing"
+const data ="testing"
 
 console.log(testing,"test")
