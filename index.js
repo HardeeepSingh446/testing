@@ -1,3 +1,3 @@
 const data ="tetsing"
 
-console.log(testing)
+console.log(testing,"test")
